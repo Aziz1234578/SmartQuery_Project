@@ -44,6 +44,6 @@ An integrated **AI engine** powered by DeepSeek (via Ollama) automatically **eva
 
 ---
 
-## 📌 Project Outcome
+##  Project Outcome
 
 This platform offers a complete, immersive experience that combines **education, artificial intelligence, and user-centric design**. It supports better learning outcomes through instant feedback and makes grading more efficient, scalable, and insightful for educators.
