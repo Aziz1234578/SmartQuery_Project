@@ -1,6 +1,6 @@
 # Intelligent Platform for Automated Assessment of Database Exercises
 
-## 🎯 Project Overview
+##  Project Overview
 
 This project aims to design and develop a smart web platform that allows **teachers to upload database exercise topics**, and **students to submit their answers in PDF format**.
 
@@ -8,7 +8,7 @@ An integrated **AI engine** powered by DeepSeek (via Ollama) automatically **eva
 
 ---
 
-## 🌟 Key Objectives
+##  Key Objectives
 
 - Automate the correction of database exercises using artificial intelligence.
 - Provide **fair, consistent, and explainable grading** for each student submission.
@@ -18,7 +18,7 @@ An integrated **AI engine** powered by DeepSeek (via Ollama) automatically **eva
 
 ---
 
-## 🧠 AI-Powered Correction Features
+##  AI-Powered Correction Features
 
 - Automatic generation of corrections based on expert models.
 - Semantic comparison between student responses and expected answers.
@@ -28,7 +28,7 @@ An integrated **AI engine** powered by DeepSeek (via Ollama) automatically **eva
 
 ---
 
-## 📊 Analytics & Feedback
+##  Analytics & Feedback
 
 - Students receive visual insights into their progress over time.
 - Teachers access performance statistics and trends to improve teaching strategies.
@@ -36,7 +36,7 @@ An integrated **AI engine** powered by DeepSeek (via Ollama) automatically **eva
 
 ---
 
-## 🔒 Security & Integrity
+##  Security & Integrity
 
 - Secure access for users with different roles (teachers and students).
 - Protection of submitted files and user data.
