@@ -1,4 +1,4 @@
-# 💡 Intelligent Platform for Automated Assessment of Database Exercises
+💡 Intelligent Platform for Automated Assessment of Database Exercises
 
 ## 🎯 Project Overview
 
